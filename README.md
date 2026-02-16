@@ -36,6 +36,8 @@ https://github.com/RandyHaylor/theia-sdk-unity2022-3-lts-samples.git?path=/Oculu
 
 Sample scene for HTC VIVE headsets.
 
+**⚠️ Important:** OpenVR/SteamVR cannot be automatically installed. You must manually install the SteamVR Unity Plugin from the Asset Store before using this sample.
+
 **Import URL:**
 ```
 https://github.com/RandyHaylor/theia-sdk-unity2022-3-lts-samples.git?path=/HTCViveSample
